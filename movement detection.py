@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-#day mode is 20
+#day mode is 60
 #night mode is 40
 def none(x):
     pass
